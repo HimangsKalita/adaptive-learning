@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Do you like to solve complex problems?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Do you like to build websites and applications?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you interested in the future of finance and technology?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you interested in the future of artificial intelligence?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you good at building user interfaces and designing user experiences?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Do you enjoy learning about complex systems?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Do you like to solve complex problems?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you interested in both the front-end and back-end of development?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you good at cryptography and security?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    },
+    {
+        "question": "Are you good at math and statistics?",
+        "choices": ["Strongly Agree", "Agree", "Neither agree nor disagree","Disagree", "Strongly Disagree"],
+        "correctAnswerIndex": 2,
+        "selectedAnswerIndex": null
+    }
+
+  ]

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.containers {
+  padding: 0 8%;
+}
+
+.bg-gradient-green {
+  background: linear-gradient(45deg, #86b9b0, #d0d6d6);
+}
+
+.hover-div:hover {
+  cursor: pointer;
+  box-shadow: 3px 3px 10px #616161;
+}
